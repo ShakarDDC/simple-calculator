@@ -1,0 +1,51 @@
+C:\Users\mrc\Desktop\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\mrc\Desktop\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\mrc\Desktop\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\mrc\Desktop\Simple Calculator\obj\Debug\rc0_group.csprojAssemblyReference.cache
+C:\Users\mrc\Desktop\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+C:\Users\mrc\Desktop\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\mrc\Desktop\Simple Calculator\obj\Debug\rc0_group.csproj.GenerateResource.cache
+C:\Users\mrc\Desktop\Simple Calculator\obj\Debug\rc0_group.csproj.CoreCompileInputs.cache
+C:\Users\mrc\Desktop\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\mrc\Desktop\Simple Calculator\obj\Debug\Simple Calculator.pdb
+C:\Users\Shakar\Desktop\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\Shakar\Desktop\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\Shakar\Desktop\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\Shakar\Desktop\Simple Calculator\obj\Debug\rc0_group.csprojAssemblyReference.cache
+C:\Users\Shakar\Desktop\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+C:\Users\Shakar\Desktop\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\Shakar\Desktop\Simple Calculator\obj\Debug\rc0_group.csproj.GenerateResource.cache
+C:\Users\Shakar\Desktop\Simple Calculator\obj\Debug\rc0_group.csproj.CoreCompileInputs.cache
+C:\Users\Shakar\Desktop\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\Shakar\Desktop\Simple Calculator\obj\Debug\Simple Calculator.pdb
+C:\Users\mrc\Documents\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\mrc\Documents\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\mrc\Documents\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\mrc\Documents\Simple Calculator\obj\Debug\rc0_group.csprojAssemblyReference.cache
+C:\Users\mrc\Documents\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+C:\Users\mrc\Documents\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\mrc\Documents\Simple Calculator\obj\Debug\rc0_group.csproj.GenerateResource.cache
+C:\Users\mrc\Documents\Simple Calculator\obj\Debug\rc0_group.csproj.CoreCompileInputs.cache
+C:\Users\mrc\Documents\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\mrc\Documents\Simple Calculator\obj\Debug\Simple Calculator.pdb
+C:\Users\Shakar\Desktop\projectr 12\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\Shakar\Desktop\projectr 12\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\Shakar\Desktop\projectr 12\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\Shakar\Desktop\projectr 12\Simple Calculator\obj\Debug\rc0_group.csprojAssemblyReference.cache
+C:\Users\Shakar\Desktop\projectr 12\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+C:\Users\Shakar\Desktop\projectr 12\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\Shakar\Desktop\projectr 12\Simple Calculator\obj\Debug\rc0_group.csproj.GenerateResource.cache
+C:\Users\Shakar\Desktop\projectr 12\Simple Calculator\obj\Debug\rc0_group.csproj.CoreCompileInputs.cache
+C:\Users\Shakar\Desktop\projectr 12\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\Shakar\Desktop\projectr 12\Simple Calculator\obj\Debug\Simple Calculator.pdb
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\Simple Calculator\obj\Debug\rc0_group.csproj.AssemblyReference.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\Simple Calculator\obj\Debug\rc0_group.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\Simple Calculator\obj\Debug\rc0_group.csproj.GenerateResource.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\Simple Calculator\obj\Debug\rc0_group.csproj.CoreCompileInputs.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\Simple Calculator\obj\Debug\Simple Calculator.pdb

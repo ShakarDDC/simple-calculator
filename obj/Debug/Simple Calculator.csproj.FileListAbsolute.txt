@@ -1,0 +1,20 @@
+D:\User\Desktop\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+D:\User\Desktop\Simple Calculator\bin\Debug\Simple Calculator.exe
+D:\User\Desktop\Simple Calculator\bin\Debug\Simple Calculator.pdb
+D:\User\Desktop\Simple Calculator\obj\Debug\Simple Calculator.csprojAssemblyReference.cache
+D:\User\Desktop\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+D:\User\Desktop\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+D:\User\Desktop\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.cache
+D:\User\Desktop\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+D:\User\Desktop\Simple Calculator\obj\Debug\Simple Calculator.exe
+D:\User\Desktop\Simple Calculator\obj\Debug\Simple Calculator.pdb
+C:\Users\mrc\Desktop\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\mrc\Desktop\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\mrc\Desktop\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\mrc\Desktop\Simple Calculator\obj\Debug\Simple Calculator.csprojAssemblyReference.cache
+C:\Users\mrc\Desktop\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+C:\Users\mrc\Desktop\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\mrc\Desktop\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.cache
+C:\Users\mrc\Desktop\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mrc\Desktop\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\mrc\Desktop\Simple Calculator\obj\Debug\Simple Calculator.pdb
